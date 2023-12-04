@@ -3,9 +3,7 @@
 <br />
 
 ## Big Data
-- [Streaming de datos](https://github.com/sayuriGui/TC3007C.502/blob/main/Big%20Data/streaming_A01640092.dbc)
-- [Momento de Retroalimentación: Módulo 1 Utilización, procesamiento y visualización de grandes volúmenes de datos (Portafolio Análisis)](https://github.com/sayuriGui/TC3007C.502/tree/main/Big%20Data/Momento%20de%20Retroalimentaci%C3%B3n%20M%C3%B3dulo%201%20Utilizaci%C3%B3n%2C%20procesamiento%20y%20visualizaci%C3%B3n%20de%20grandes%20vol%C3%BAmenes%20de%20datos%20(Portafolio%20An%C3%A1lisis)) 
-- [Tipos complejos cassandra: set, list, map](https://github.com/sayuriGui/TC3007C.502/blob/main/Big%20Data/A01640092_tiposComplejosCassandra.pdf) 
+- [Momento de Retroalimentación: Módulo 1 Utilización, procesamiento y visualización de grandes volúmenes de datos (Portafolio Análisis)](https://github.com/RodoBP/TC3007C.502/tree/main/Big%20Data/Momento%20de%20Retroalimentaci%C3%B3n%20M%C3%B3dulo%201%20Utilizaci%C3%B3n%2C%20procesamiento%20y%20visualizaci%C3%B3n%20de%20grandes%20vol%C3%BAmenes%20de%20datos%20(Portafolio%20An%C3%A1lisis)) 
 
 ## Evidencia 1. Portafolio de análisis
 <table>
